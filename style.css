@@ -1,0 +1,47 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f4f8fb;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.form-section {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+.user-section {
+  background: #fff;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.user-card {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
